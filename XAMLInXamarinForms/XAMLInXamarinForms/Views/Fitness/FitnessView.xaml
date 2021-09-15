@@ -5,6 +5,37 @@
               xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
               mc:Ignorable="d"
               x:Class="XAMLInXamarinForms.Views.Fitness.FitnessView"
-              xmlns:fitnessviews="clr-namespace:XAMLInXamarinForms.Views">
+              xmlns:fitnessviews="clr-namespace:XAMLInXamarinForms.Views.Fitness">
+
+    <CarouselPage.Title>
+        Fitness
+    </CarouselPage.Title>
+    <fitnessviews:SundayView>
+        
+    </fitnessviews:SundayView>
+    
+    <fitnessviews:MondayView>
+        
+    </fitnessviews:MondayView>
+    
+    <fitnessviews:TuesdayView>
+
+    </fitnessviews:TuesdayView>
+    
+    <fitnessviews:WednesdayView>
+
+    </fitnessviews:WednesdayView>
+    
+    <fitnessviews:ThursdayView>
+
+    </fitnessviews:ThursdayView>
+    
+    <fitnessviews:FridayView>
+
+    </fitnessviews:FridayView>
+
+    <fitnessviews:SaturdayView>
+
+    </fitnessviews:SaturdayView>
 
 </CarouselPage>
